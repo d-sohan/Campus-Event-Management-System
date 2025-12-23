@@ -1,6 +1,5 @@
  body {
             font-family: Arial, sans-serif;
-            
             margin: 0;
             padding: 0;
             height: 100vh;
@@ -26,7 +25,6 @@
             font-size: 16px;
             margin-bottom: 30px;
         }
-
         button {
             padding: 12px 25px;
             font-size: 16px;
@@ -36,11 +34,9 @@
             border-radius: 5px;
             cursor: pointer;
         }
-
         button:hover {
             background-color: #00c6ff;
         }
-
         #message {
             margin-top: 20px;
             font-weight: bold;
